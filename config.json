@@ -1,0 +1,12 @@
+{
+	"authorization": "",
+	"_comment":"Ниже указываем ID от VK",
+	"my_id": 232357251,
+	"buy_slaves": 1,
+	"buy_fetters": 1,
+	"upgrade_slaves": 1,
+	"min_price": 40,
+	"max_price": 26151,
+	"job": ["https://vk.com/onlyrab", "vk.com/onlyrab"],
+	"delay": 11
+}
